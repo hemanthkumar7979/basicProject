@@ -1,0 +1,2 @@
+# basicProject
+About the git
